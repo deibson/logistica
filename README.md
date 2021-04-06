@@ -1,2 +1,2 @@
 # logistica
-Projeto criado para apresentação a disciplina de tópicos especiais.
+Projeto exemplo para simular rotas para entra de produtos.
